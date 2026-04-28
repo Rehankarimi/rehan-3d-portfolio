@@ -6,11 +6,19 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          Senior Analyst based in Mumbai with 8+ years of experience driving
+          large-scale digital transformation across Telecom and Insurance
+          domains.
+          <br />
+          <br />
+          Proven track record of leading end-to-end GenAI and automation
+          programs, delivering $8M+ annual business impact through cost
+          optimization, SLA improvement, and process transformation.
+          <br />
+          <br />
+          Strong background in business case development, ROI modeling, and
+          stakeholder management with a focus on governance, adoption, and
+          on-time outcome-driven delivery.
         </p>
       </div>
     </div>

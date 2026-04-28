@@ -15,58 +15,77 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Senior Analyst</h4>
+                <h5>Accenture · Mumbai</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2024-26</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Owned end-to-end delivery of multi-market digital transformation
+              initiatives across Telecom and Insurance regions. Led a GenAI
+              program that delivered $8.25M annual savings (6x ROI) through
+              ticket validation and workflow automation. Aligned stakeholders
+              across 65 global sites and drove Agile execution with strong
+              governance, OKRs, and sprint tracking.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Project Coordinator</h4>
+                <h5>Accenture · Mumbai</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2022-24</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Supported multi-stream transformation programs across Telecom
+              operations. Managed budgets, governance forums, RAID logs, and
+              execution tracking across functions. Improved reporting automation
+              to reduce manual effort and increase transparency in executive
+              reviews.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Business Transformation / Operations Specialist</h4>
+                <h5>Accenture · Mumbai</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2019-22</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Led end-to-end process reengineering using Lean Six Sigma
+              (DMAIC). Identified automation opportunities and implemented RPA
+              workflows to improve operational efficiency and reduce manual
+              workload.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Team Lead - BPO Operations</h4>
+                <h5>Accenture · Mumbai</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2018-19</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Managed SLA delivery, quality metrics, and escalations for
+              telecom support operations. Improved productivity and resolution
+              quality through structured performance frameworks.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Business Consultant</h4>
+                <h5>Sutherland Global · Mumbai</h5>
+              </div>
+              <h3>2017-18</h3>
+            </div>
+            <p>
+              Served as the primary interface with technical managers for
+              clarifications, dependencies, and escalations, ensuring smooth
+              coordination between business and technical teams.
             </p>
           </div>
         </div>
