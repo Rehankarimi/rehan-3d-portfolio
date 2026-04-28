@@ -19,6 +19,12 @@ const Contact = () => {
                 LinkedIn — rehankarimi
               </a>
             </p>
+            <h4>Email</h4>
+            <p>
+              <a href="mailto:rehanumarkarimi@outlook.com" data-cursor="disable">
+                rehanumarkarimi@outlook.com
+              </a>
+            </p>
             <h4>Phone</h4>
             <p>
               <a href="tel:+919664385685" data-cursor="disable">
