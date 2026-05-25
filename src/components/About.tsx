@@ -6,19 +6,19 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Senior Analyst based in Mumbai with 8+ years of experience driving
-          large-scale digital transformation across Telecom and Insurance
-          domains.
+        Project Lead with 8+ years of experience driving AI-led digital transformation,
+        PMO governance, and enterprise delivery programs across 
+        Telecom and Insurance domains.
           <br />
           <br />
-          Proven track record of leading end-to-end GenAI and automation
-          programs, delivering $8M+ annual business impact through cost
-          optimization, SLA improvement, and process transformation.
+          Proven track record of leading cross-functional initiatives involving Agile delivery,
+          workflow automation, executive governance, and operational modernization.
           <br />
           <br />
-          Strong background in business case development, ROI modeling, and
-          stakeholder management with a focus on governance, adoption, and
-          on-time outcome-driven delivery.
+          Delivered a GenAI-powered digitization program that reduced invalid escalations by 75% &
+          generated $8.25M annual savings across 65+ sites.
+          Skilled in stakeholder management, KPI-driven reporting, risk governance, and aligning
+          business and technology teams to deliver measurable business outcomes.
         </p>
       </div>
     </div>

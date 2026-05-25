@@ -15,10 +15,10 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Analyst</h4>
+                <h4>Senior Analyst - Transformation & AI Program Delivery</h4>
                 <h5>Accenture · Mumbai</h5>
               </div>
-              <h3>2024-26</h3>
+              <h3>Sep 2023 - Jan 2026</h3>
             </div>
             <p>
               Owned end-to-end delivery of multi-market digital transformation
@@ -35,7 +35,7 @@ const Career = () => {
                 <h4>Project Coordinator</h4>
                 <h5>Accenture · Mumbai</h5>
               </div>
-              <h3>2022-24</h3>
+              <h3>Mar 2021- Aug 2023</h3>
             </div>
             <p>
               Supported multi-stream transformation programs across Telecom
@@ -51,7 +51,7 @@ const Career = () => {
                 <h4>Business Transformation / Operations Specialist</h4>
                 <h5>Accenture · Mumbai</h5>
               </div>
-              <h3>2019-22</h3>
+              <h3>Oct 2019- Feb 2021</h3>
             </div>
             <p>
               Led end-to-end process reengineering using Lean Six Sigma
@@ -66,7 +66,7 @@ const Career = () => {
                 <h4>Team Lead - BPO Operations</h4>
                 <h5>Accenture · Mumbai</h5>
               </div>
-              <h3>2018-19</h3>
+              <h3>Sep 2018- Aug 2019</h3>
             </div>
             <p>
               Managed SLA delivery, quality metrics, and escalations for
